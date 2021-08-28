@@ -29,32 +29,21 @@ li a {
 li a:hover {
     background-color: black;
 }
-header {
+.header {
     text-decoration-line: underline;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: large;
-    color: black
+    color: white
 }
 
-#contacts {
-    list-style-type: none;
-	margin: 0;
-	padding: 10;
-	overflow: visible;
-	background-color: blue;
-	display: table;
-	width: 100%;
-    text-align: center;
-}
-
-footer {
+.footer {
     position: relative;
     width: 100%;
     bottom: -100px;
     background-color: aliceblue;
 }
 
-footer p {
+.footer p {
     color: white;
     align-self: center;
 }
