@@ -235,17 +235,11 @@ a:link {
     font-size: 25px;
     color: white;
     text-align: left;
-    position: relative; top:200px;
-    width: 500px;
-    word-wrap: break-word;
 
 }
 .laptopsetup h1 {
     background-color: black;
     opacity: 50%;
-    position: relative; top:200px;
-    width: 500px;
-    word-wrap: break-word;
 
 }
 .laptopsetup li {
@@ -255,9 +249,7 @@ a:link {
 .laptopsetup li p {
     display: inline-table;
     color: gray;
-	    position: relative; top:200px;
-    width: 500px;
-    word-wrap: break-word;
+
 }
 
 .onthego{
@@ -265,17 +257,13 @@ a:link {
     font-size: 25px;
     color: white;
     text-align: left;
-    position: relative; top:200px;
-    width: 500px;
-    word-wrap: break-word;
+
 
 }
 .onthego h1 {
     background-color: black;
     opacity: 50%;
-	    position: relative; top:200px;
-    width: 500px;
-    word-wrap: break-word;
+
 
 }
 .onthego li {
@@ -285,9 +273,7 @@ a:link {
 .onthego li p {
     display: inline-table;
     color: gray;
-	    position: relative; top:200px;
-    width: 500px;
-    word-wrap: break-word;
+
 }
 
 .audio{
@@ -295,16 +281,12 @@ a:link {
     font-size: 25px;
     color: white;
     text-align: left;
-    position: relative; top:200px;
-    width: 500px;
-    word-wrap: break-word;
+
 }
 .audio h1 {
     background-color: black;
     opacity: 50%;
-    position: relative; top:200px;
-    width: 500px;
-    word-wrap: break-word;
+
 }
 span {
     text-decoration: underline;
