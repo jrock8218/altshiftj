@@ -4,7 +4,11 @@
 /* BEGIN HOME PAGE STYLING*/
 html {
     background-image: url("https://images.squarespace-cdn.com/content/v1/58922665414fb57eb1b11e72/1503080659837-I1GIEHHI3LV6KVF455HC/blog+general.jpeg?format=2500wg"); 
-    width: 100%;
+    background-size: cover;
+	background-attachment: scroll;
+	
+	
+	width: 100%;
 	max-width:1920px;
 	min-width:480px;
 	height: 100%;
