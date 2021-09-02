@@ -7,7 +7,7 @@
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
 
-
+}
 html {
     background-image: url("https://images.squarespace-cdn.com/content/v1/58922665414fb57eb1b11e72/1503080659837-I1GIEHHI3LV6KVF455HC/blog+general.jpeg?format=2500wg"); 
     background-position: center;
@@ -16,7 +16,7 @@ html {
     background-size: cover;
 
 }
-}
+
 
  a:link {
      color: grey;
