@@ -1,14 +1,13 @@
 body {
-
-background-image: url("https://images.squarespace-cdn.com/content/v1/58922665414fb57eb1b11e72/1503080659837-I1GIEHHI3LV6KVF455HC/blog+general.jpeg?format=2500wg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  background-size: cover;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/58922665414fb57eb1b11e72/1503080659837-I1GIEHHI3LV6KVF455HC/blog+general.jpeg?format=2500wg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
 
 }
 
-a:link {
+ a:link {
      color: grey;
      background-color: transparent;
      text-decoration: none !important;
@@ -45,7 +44,7 @@ nav ul{
     font-size: 25px;
     padding: 5px;
     width: 100%;
-    text-align: right;
+    text-align: justify;
 }
 
 #aboutmeheader {
@@ -61,7 +60,7 @@ nav ul{
     font-size: 25px;
     padding: 5px;
     width: 100%;
-    text-align: right;
+    text-align: justify;
 }
 
 #blogheader  {
@@ -76,7 +75,7 @@ nav ul{
     font-size: 25px;
     padding: 5px;
     width: 100%;
-    text-align: right;
+    text-align: justify;
 }
 
 #contactheader {
@@ -288,4 +287,4 @@ span {
 
 /* END SETUP PAGE STYLING */
 /* END SETUP PAGE STYLING */
-/* END SETUP PAGE STYLING */
+/* END SETUP PAGE STYLING */ 
