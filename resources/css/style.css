@@ -4,6 +4,8 @@ body {
     background-repeat: no-repeat;
     background-attachment:fixed;
     background-size: cover;
+    width: 100vw;
+    height: 100vh;
 
 }
 
@@ -44,7 +46,7 @@ nav ul{
     font-size: 25px;
     padding: 5px;
     width: 100%;
-    text-align: justify;
+    text-align: right;
 }
 
 #aboutmeheader {
@@ -75,7 +77,7 @@ nav ul{
     font-size: 25px;
     padding: 5px;
     width: 100%;
-    text-align: justify;
+    text-align: right;
 }
 
 #contactheader {
@@ -83,6 +85,7 @@ nav ul{
     font-size: 25px;
     padding: 5px;
     width: 100%;
+    text-align: left;
 }
 
 #contactpagelinks {
@@ -90,6 +93,7 @@ nav ul{
     font-size: 25px;
     padding: 5px;
     width: 100%;
+    text-align: right;
 }
 
 li {
