@@ -2,11 +2,11 @@
 /* BEGIN HOME PAGE STYLING*/
 /* BEGIN HOME PAGE STYLING*/
 /* BEGIN HOME PAGE STYLING*/
-html {
+body {
     background-image: url("https://images.squarespace-cdn.com/content/v1/58922665414fb57eb1b11e72/1503080659837-I1GIEHHI3LV6KVF455HC/blog+general.jpeg?format=2500wg"); 
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment:scroll;
+    background-attachment:fixed;
     background-size: cover;
 
 }
