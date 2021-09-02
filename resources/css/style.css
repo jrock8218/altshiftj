@@ -1,5 +1,10 @@
 body {
-	background-color: black;
+	background-image: url("https://i.pinimg.com/736x/d1/b0/83/d1b083ac9d9344250908137e08d6eb20.jpg");
+	background-position: center;
+        background-repeat: no-repeat;
+        background-attachment:fixed;
+	
+        background-size: cover;
 }
 
 
@@ -40,7 +45,7 @@ nav ul{
     font-size: 25px;
     padding: 5px;
     width: 100%;
-    text-align: justify;
+    text-align: right;
 }
 
 #aboutmeheader {
@@ -56,7 +61,7 @@ nav ul{
     font-size: 25px;
     padding: 5px;
     width: 100%;
-    text-align: justify;
+    text-align: right;
 }
 
 #blogheader  {
@@ -71,7 +76,7 @@ nav ul{
     font-size: 25px;
     padding: 5px;
     width: 100%;
-    text-align: justify;
+    text-align: right;
 }
 
 #contactheader {
