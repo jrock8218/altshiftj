@@ -203,7 +203,7 @@ footer {
     font-family: 'Times New Roman';
     font-size: 25px;
     color: white;
-    text-align: left;
+    text-align: justify;
     top:200px;
     width: 250px;
 
@@ -230,7 +230,7 @@ a:link {
     font-family: 'Times New Roman';
     font-size: 25px;
     color: white;
-    text-align: center;
+    text-align: justify;
     top:200px;
     width: 250px;
 }
@@ -252,7 +252,7 @@ a:link {
     font-family: 'Times New Roman';
     font-size: 25px;
     color: white;
-    text-align: center;
+    text-align:justify;
     top:200px;
     width: 250px;
 }
@@ -274,7 +274,7 @@ a:link {
     font-family: 'Times New Roman';
     font-size: 25px;
     color: white;
-    text-align: center;
+    text-align: justify;
     top:200px;
     width: 250px;
 }
@@ -285,7 +285,7 @@ a:link {
 }
 span {
     text-decoration: underline;
-	text-align: center;
+	text-align: justify;
 }
 
 
