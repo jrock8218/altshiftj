@@ -1,21 +1,6 @@
-        * {
-            margin: 0;
-            padding: 0;
-        }
-        .imgbox {
-            display: grid;
-            height: 100%;
-        }
-        .center-fit {
-            max-width: 100%;
-            max-height: 100vh;
-            margin: auto;
-        }
-
-
 
 body {
-	background-image: url("https://unsplash.com/photos/NuFUbftUu_s");
+	background-image: url("https://images.unsplash.com/photo-1572976993240-ee51181680be?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2734&q=80");
 	background-position: center;
         background-repeat: no-repeat;
         background-attachment:fixed;
