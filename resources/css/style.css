@@ -47,7 +47,7 @@ nav ul{
     color: white;
     font-size: 25px;
     padding: 5px;
-    width: 100%;
+    width: justify;
     text-align: right;
 }
 
@@ -55,7 +55,7 @@ nav ul{
     color: white;
     font-size: 25px;
     padding: 5px;
-    width: 100%;
+    width: justify;
     text-align: justify;
 }
 
@@ -71,14 +71,14 @@ nav ul{
     color: white;
     font-size: 25px;
     padding: 5px;
-    width: 100%;
+    width: justify;
     text-align: justify;
 }
 #blogpagelinks {
     color: white;
     font-size: 25px;
     padding: 5px;
-    width: 100%;
+    width: justify;
     text-align: right;
 }
 
@@ -86,7 +86,7 @@ nav ul{
     color: white;
     font-size: 25px;
     padding: 5px;
-    width: 100%;
+    width: justify;
     text-align: left;
 }
 
@@ -94,7 +94,7 @@ nav ul{
     color: white;
     font-size: 25px;
     padding: 5px;
-    width: 100%;
+    width: justify;
     text-align: right;
 }
 
