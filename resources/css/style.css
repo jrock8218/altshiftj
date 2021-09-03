@@ -10,13 +10,6 @@ body {
 
 
 }
-main {
-  margin: 0 auto;
-  padding: 40px;
-  width: 400px;
-  height: 1000px;
-  overflow: scroll;
-}
 
  a:link {
      color: grey;
