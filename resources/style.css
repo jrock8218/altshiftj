@@ -82,6 +82,12 @@ nav {
     h1 {
        display: none;
     }
+    img {
+          background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 100%;
+      
     
     li {
       margin-right: 10px;
